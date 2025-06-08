@@ -1,40 +1,40 @@
 examples
-Examples
+Esempi
 -----
 documentation
-Documentation
+Documentazione
 -----
 modules
-Modules
+Moduli
 -----
 faq
 FAQ
 -----
 built_in_v
-Built in V
+Creato in V
 -----
 the_v_lang
-The V Programming Language
+Il Linguaggio di Programmazione V
 -----
 v_slogan
-Simple, fast, safe, compiled language for developing maintainable software
+Un linguaggio semplice, veloce, sicuro e compilato per sviluppare software facile da mantenere
 -----
 includes_binaries 
-includes binaries for 3 systems
+include file binari per 3 sistemi
 -----
 install_source 
-Or install V from source 
+Oppure installa V da sorgente
 -----
 couple_seconds 
-this will take a couple of seconds
+ci vorranno pochi secondi
 -----
 wip_info
-V is an actively developed language at an early stage.
-Features that are still being worked on are marked with $wip
+V è un linguaggio attivamente sviluppato ad uno stadio embrionale.
+Le funzionalità ancora in stato di sviluppo sono contarssegnate da $wip
 <br> 
 Everything else on this page and the docs has been implemented and open-sourced.
 <p> 
-By the time of the V 1.0 release planned for December 2019, there will be no $wip's left.
+Al momento del rilascio di V 1.0 programmato per Dicembre 2019, non ci sarà alcun $wip.
 -----
 forum
 Forum
@@ -43,52 +43,52 @@ blog
 Blog 
 -----
 fast_compilation
-Fast compilation
+Compilazione veloce
 -----
 safety
-Safety
+Sicurezza
 -----
 performance 
 Performance 
 -----
 simple_language_for_maintainable_programs
-Simple language for building  maintainable programs 
+Un linguaggio semplice per sviluppare software facile da mantenere
 -----
 zero_deps 
-400 KB compiler with zero dependencies
+Compilatore di 400 KB senza alcuna dipendenza 
 -----
 c_translation 
-C/C++ translation 
+Traduzione a/da C/C++ 
 -----
 introduction
-Introduction 
+Introduzione 
 -----
 comments
-Comments 
+Commenti 
 -----
 functions
-Functions 
+Funzioni
 -----
 variables
-Variables 
+Variabili
 -----
 basic_types 
-Basic types 
+Tipi di base 
 -----
 strings
-Strings
+Stringhe
 -----
 arrays
-Arrays 
+Arrays
 -----
 maps
-Maps 
+Mappe
 -----
 if
 If 
 -----
 in_op 
-In operator 
+Operatore In
 -----
 for_loop 
 For loop 
@@ -100,31 +100,31 @@ structs
 Structs 
 -----
 access_mod 
-Access modifiers 
+Modificatori di accesso 
 -----
 methods
-Methods
+Metodi
 -----
 pure_fns 
-Pure functions 
+Funzioni pure
 -----
 high_fns 
-High order functions 
+Funzioni di alto ordine 
 -----
 constants 
-Constants 
+Costanti 
 -----
 modules
-Modules 
+Moduli 
 -----
 interfaces
-Interfaces 
+Interfacce
 -----
 enums
 Enums 
 -----
 optionals_and_errors 
-Option types & error handling 
+Tipi Option e gestione di errori 
 -----
 generics
 Generics 
@@ -133,19 +133,19 @@ concurrency
 Concurrency 
 -----
 decoding_json 
-Decoding JSON 
+Decodifica di JSON 
 -----
 testing
 Testing 
 -----
 memory_management 
-Memory management 
+Gestione della memoria
 -----
 fast_comp1
-V compiles between ≈100k and 1.2 million lines of code per second per CPU core. 
+V riesce a compilare tra ≈100k e 1.2 milioni di linee di codice al secondo per core di CPU. 
 -----
 fast_comp2
-V compiles itself in 0.15 - 0.6 seconds.
+V si compila da solo in 0.15 - 0.6 secondi.
 -----
 fast_comp3
 -----
